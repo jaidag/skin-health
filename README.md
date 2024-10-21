@@ -1,4 +1,4 @@
-# An Accessible AI-Powered Web App for Proactive Skin Health Monitoring
+# Proactive Skin Health Monitoring Using AI
 
 Skin conditions such as acne, eczema, and rosacea are common among teenagers, causing both physical discomfort and emotional distress that can negatively affect academic performance and overall well-being. Proactive skin health management is vital, particularly with severe conditions like melanoma, an aggressive skin cancer that can be fatal if not detected early. While biopsies and imaging tests are effective, they are invasive, costly, and often inaccessible to many.
 
